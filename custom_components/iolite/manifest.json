@@ -11,5 +11,5 @@
   "requirements":[
       "git+https://github.com/thepiwo/python-iolite-client.git@master"
   ],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
